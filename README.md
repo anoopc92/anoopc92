@@ -1,4 +1,4 @@
-# Hi, I'm Anoop Chakkingal
+# Hi, I'm Anoop C
 
 ### Researcher | PhD in Computational Chemical Engineering | AI/GenAI Specialist
 
