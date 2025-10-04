@@ -78,7 +78,6 @@ Innovative professional with a Ph.D. in Computational Chemical Engineering and e
 **Indian Institute of Technology** | *Madras, India* | 2014–2017
 - Specialization: Chemical Engineering
 - CGPA: 8.94/10
-- Achievement: **Rank 4 in the batch**
 
 ### Bachelor of Technology
 **University of Calicut** | *Kerala, India* | 2010–2014
