@@ -122,33 +122,6 @@ Innovative professional with a Ph.D. in Computational Chemical Engineering and e
 
 ---
 
-## Selected Publications
-
-1. **Advancing Bio-catalysis Predictions: Leveraging Machine Learning Models for Accurate multi-class Activity Classification**  
-   *Under submission 2024, Chemical Engineering Journal*
-
-2. **Recent advances in the use of Steady-State Isotopic Transient Kinetic Analysis data in (micro)kinetic modeling for catalyst and process design**  
-   *2023, Catalysis Communications*
-
-3. **Multi-output machine learning models for kinetic data evaluation: A Fischer–Tropsch synthesis case study**  
-   *2022, Chemical Engineering Journal*
-
-4. **Efficient Promoters and Reaction Paths in the CO2 Hydrogenation to Light Olefins over Zirconia-Supported Iron Catalysts**  
-   *2022, ACS Catalysis*
-
-5. **Machine learning based interpretation of microkinetic data: A Fischer–Tropsch synthesis case study**  
-   *2022, Reaction Chemistry & Engineering*
-
-6. **Unravelling the influence of catalyst properties on light olefin production via Fischer–Tropsch synthesis: A descriptor space investigation using Single-Event MicroKinetics**  
-   *2021, Chemical Engineering Journal*
-
----
-
-## Interests
-
-Reading (Finance) | Watching Movies (especially comedy) | Playing Cricket
-
----
 
 ## Let's Connect
 
