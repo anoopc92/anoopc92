@@ -7,7 +7,7 @@
 **Website:** https://anoopc92.github.io
 
 ---
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f602f0c4-1bb0-407e-8971-ad72d661d34d" />
+<img width="724" height="724" alt="image" src="https://github.com/user-attachments/assets/f602f0c4-1bb0-407e-8971-ad72d661d34d" />
 
 ## About Me
 
